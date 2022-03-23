@@ -5,6 +5,7 @@
         "test": "mocha --exit"
     },
     "dependencies": {
+        "@googlemaps/js-api-loader": "^1.13.9",
         "chai": "^4.0.2",
         "express": "^4.17.3",
         "jquery": "^3.6.0",
